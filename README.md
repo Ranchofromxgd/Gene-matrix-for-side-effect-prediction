@@ -2,6 +2,9 @@
 Dataset we use:
 >http://snap.stanford.edu/decagon/
 
+Reference: realization of basic Resnet model
+>https://github.com/bearpaw/pytorch-classification
+
 # STEP 1 Visulization
   # 1.1
 We totally have 7795 genes and 1317 Side effect,so firstly we set 7795 genes with id range from 0 to 7794 ,
