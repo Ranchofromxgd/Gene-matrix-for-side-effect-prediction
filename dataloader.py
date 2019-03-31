@@ -86,4 +86,4 @@ if __name__ == '__main__':
         print(each)
         cnt+=1
         if(cnt == 3):
-            break
+            break 
