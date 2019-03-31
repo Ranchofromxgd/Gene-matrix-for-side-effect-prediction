@@ -36,3 +36,16 @@ However, The result shows we cannot depend merely on drug-targets information
 to predict the polyphormacy side-effect
 
 ![Arstmt.png](https://s2.ax1x.com/2019/03/31/Arstmt.png)
+
+# Limitation of these dataset
+Firstly,some drugs (about 10~20%) are lack of genes targets data, which makes our model unstable 
+and hard to reach a convergence
+Secondly,the genes data in each drug-drug transaction is limited,thus too similar for classifier to 
+distinguish,which also detrimental for our training session
+
+# Conclusion
+May be we cannot rely on gene-gene relations to predict side effect due to the limited info we have
+and other unexpected factors.
+# Other approaches
+We also use Apriori algorithm to mine patterns inside this dataset, however the time complexcity 
+doesn't allow us to do so.So is FP-growth algorithm, the memory exceed easily. 
