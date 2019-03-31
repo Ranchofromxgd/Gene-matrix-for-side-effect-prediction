@@ -14,7 +14,7 @@ import pickle
 row = 100
 col = 80
 assert row*col >= 8000
-
+#loader for this experiment
 class matLoader(torch.utils.data.Dataset):
     def __init__(self,training_scale):
         print('Loading files...')
