@@ -15,7 +15,16 @@ We count the frequency of 7795 genes show up in each Side effect(Corresponding t
 and draw these two figures as below:
 
 
+fig.1 There are some common genes
+![Arc0fO.gif](https://s2.ax1x.com/2019/03/31/Arc0fO.gif)
+fig.2 Also some common genes
+[![Arc27t.gif](https://s2.ax1x.com/2019/03/31/Arc27t.gif)](https://imgchr.com/i/Arc27t)
+Filt out the common genes:
+
+
 # STEP 2 Train a classifier using resnet 
-The result shows we cannot depend merely on drug-targets information to predict the polyphormacy side-effect
+Take the 100*80 gene matrix as image and do a 1317 classes classification
+However, The result shows we cannot depend merely on drug-targets information 
+to predict the polyphormacy side-effect
 
 ![Arstmt.png](https://s2.ax1x.com/2019/03/31/Arstmt.png)
