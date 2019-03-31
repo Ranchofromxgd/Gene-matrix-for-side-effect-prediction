@@ -16,7 +16,7 @@ and draw these two figures as below:
 
 
 fig.1 There are some common genes
-![Arc0fO.gif](https://s2.ax1x.com/2019/03/31/Arc0fO.gif)
+[![Arcx9U.th.gif](https://s2.ax1x.com/2019/03/31/Arcx9U.th.gif)](https://imgchr.com/i/Arcx9U)
 fig.2 Also some common genes
 [![Arc27t.md.gif](https://s2.ax1x.com/2019/03/31/Arc27t.md.gif)](https://imgchr.com/i/Arc27t)
 Filt out the common genes:
