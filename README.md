@@ -5,6 +5,10 @@ Dataset we use:
 Reference: realization of basic Resnet model
 >https://github.com/bearpaw/pytorch-classification
 
+This primitive experiment use CNN to extract the gene-data-feature for each kind of Polypharmacy side effect.
+
+So that to find out whether we can use gene data of two drugs to predict possible side effect.
+
 # STEP 1 Visulization
   # 1.1
 We totally have 7795 genes and 1317 Side effect,so firstly we set 7795 genes with id range from 0 to 7794 ,
