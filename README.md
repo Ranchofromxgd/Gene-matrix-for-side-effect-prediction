@@ -14,13 +14,15 @@ and similarly 1317 side effects were assigned with id  from    0 to 1316
 We count the frequency of 7795 genes show up in each Side effect(Corresponding to a group of drug pairs) 
 and draw these two figures as below:
 
-[![Arcx9U.th.gif](https://s2.ax1x.com/2019/03/31/Arcx9U.th.gif)](https://imgchr.com/i/Arcx9U)
+Click the picture to play gif:
+![Ar2CRS.gif](https://s2.ax1x.com/2019/03/31/Ar2CRS.gif)
 fig.1 There are some common genes
 
+Click the picture to play gif:
 [![Arc27t.md.gif](https://s2.ax1x.com/2019/03/31/Arc27t.md.gif)](https://imgchr.com/i/Arc27t)
-fig.2 Also some common genes
+fig.2 Each pixel stand for a specific gene(0~7794),this is a 100*80 matrix
 
-After filtering out the common genes:
+After filtering out the common genes,click the picture to play gif:
 ![Argtgg.gif](https://s2.ax1x.com/2019/03/31/Argtgg.gif)
 
 # STEP 2 Train a classifier using resnet 
