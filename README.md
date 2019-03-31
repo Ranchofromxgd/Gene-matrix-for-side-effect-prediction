@@ -14,4 +14,4 @@ and draw these two figures
 # STEP 2 Train a classifier using resnet 
 The result shows we cannot depend merely on drug-targets information to predict the polyphormacy side-effect
 
-[![Arstmt.md.png](https://s2.ax1x.com/2019/03/31/Arstmt.md.png)](https://imgchr.com/i/Arstmt)
+![Arstmt.png](https://s2.ax1x.com/2019/03/31/Arstmt.png)
