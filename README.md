@@ -18,7 +18,7 @@ and similarly 1317 side effects were assigned with id  from    0 to 1316(easy to
 We count the frequency of 7795 genes show up in each Side effect(Corresponding to a group of drug pairs) 
 and draw these figures :
 
-**Click the iamge to play fig.1:**
+**Click the image to play fig.1:**
 
 [![Ar2CRS.md.gif](https://s2.ax1x.com/2019/03/31/Ar2CRS.md.gif)](https://imgchr.com/i/Ar2CRS)
 
@@ -27,7 +27,7 @@ fig.1 There are some common genes in each side effect
 At first, we assume the least frequent genes in this figure are the main factor to determine 
 the type of side effect may appear
 
-**Click the iamge to play fig.2:**
+**Click the image to play fig.2:**
 
 [![Ar2BsH.md.gif](https://s2.ax1x.com/2019/03/31/Ar2BsH.md.gif)](https://imgchr.com/i/Ar2BsH)
 
