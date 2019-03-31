@@ -19,6 +19,7 @@ and draw these figures :
 [![Ar2CRS.md.gif](https://s2.ax1x.com/2019/03/31/Ar2CRS.md.gif)](https://imgchr.com/i/Ar2CRS)
 
 fig.1 There are some common genes in each side effect
+
 At first, we assume the least frequent genes in this figure are the main factor to determine 
 the type of side effect may appear
 
