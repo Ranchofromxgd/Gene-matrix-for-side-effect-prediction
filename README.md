@@ -49,8 +49,8 @@ to predict the polyphormacy side-effect
 Firstly,some drugs (about 10~20%) are lack of genes targets data, which makes our model unstable 
 and hard to reach a convergence.
 
-Secondly,the genes data in each drug-drug transaction is limited,thus too similar for classifier to 
-distinguish,which also detrimental for our training session.
+Secondly,the genes data in each drug-drug transaction is limited and mostly common gene,thus too 
+similar for classifier to distinguish,which also detrimental for our training session.
 
 # Conclusion
 May be we cannot rely on gene-gene relations to predict side effect due to the limited info we have
