@@ -56,6 +56,12 @@ similar for classifier to distinguish,which also detrimental for our training se
 May be we cannot rely on gene-gene relations to predict side effect due to the limited info we have
 and other unexpected factors.
 
+------------------- update on May 1st ----------------------
+
+We found a deadly bad limitation in this method.Because the gene for each id is randomly selected,
+so the kernal in CNN may not able to cover neighborhood info during convolution.However, neighborhood
+infomation is pretty significant in this work
+
 # Other approaches
 We also use Apriori algorithm to mine patterns inside this dataset, however the time complexcity 
 doesn't allow us to do so.So is FP-growth algorithm, the memory exceed easily. 
