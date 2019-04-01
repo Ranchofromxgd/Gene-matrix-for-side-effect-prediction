@@ -9,7 +9,7 @@ This primitive experiment use CNN to extract the gene-data-feature for each kind
 
 So that to find out whether we can use gene data of two drugs to predict possible side effect.
 
-# STEP 1 Visulization
+# STEP 1 Visualization
   # 1.1
 We totally have 7795 genes and 1317 Side effect,so firstly we set 7795 genes with id range from 0 to 7794 ,
 and similarly 1317 side effects were assigned with id  from    0 to 1316(easy to compute and visualize)
